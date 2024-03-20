@@ -1,0 +1,32 @@
+{
+  "name": "kittycoffee-brakpoint",
+  "version": "1.0.0",
+  "description": "Brake points with a kitty coffee tool, ensuring smooth murmuring operations.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mulishness101/kittycoffee-brakpoint"
+  },
+  "author": "mulishness101",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-murmur-manager": "1.0.0",
+    "kittycoffee-brakpoint": "1.0.0",
+    "xml2js": "1.0.0",
+    "mongoose": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "redux": "1.0.0",
+    "passport": "1.0.0",
+    "node-sass": "1.0.0",
+    "bluebird": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "dotenv": "1.0.0",
+    "enzyme": "1.0.0",
+    "web3-react": "1.0.0",
+    "eslint": "1.0.0",
+    "cheerio": "1.0.0"
+  }
+}
